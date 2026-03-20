@@ -1,2 +1,3 @@
-# fast-fitness-tracker-8qr0
-Automated issue comment bot repository
+# Fast Fitness Tracker 8Qr0
+
+Automated issue comment bot repository.
